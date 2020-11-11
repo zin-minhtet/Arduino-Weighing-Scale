@@ -1,7 +1,7 @@
 # Arduino-Weighing-Scale
 Arduino Weighing Scale Using Load Cells
 
-## Here is the *Material List* to make this project:
+### Here is the *Material List* to make this project:
   - Arduino Nano
   - HX711 24-bit ADC Amplifier
   - 2 * 20kg load cells
@@ -10,7 +10,7 @@ Arduino Weighing Scale Using Load Cells
   - 2 x 220 Ohm resistors
   - some jumpers
 
-## Steps to make this project:
+### Steps to make this project:
   1.  Make the circuit like the one in diagram
   2.  Upload the **Calibration.ino** file to the board and calibrate with the instruction shown in the file
   3.  Upload the **HX711.ino file** and test weighing
