@@ -12,6 +12,6 @@ Arduino Weighing Scale Using Load Cells
 
 ### Steps to make this project:
   1.  Make the circuit like the one in diagram
-  2.  Upload the **Calibration.ino** file to the board and calibrate with the instruction shown in the file (Calibration Step)
+  2.  Upload the **Calibration.ino** file to the board and calibrate with the instruction shown in the file *(Calibration Step)*
   3.  Upload the **HX711.ino file** and test weighing
   4.  Finally, upload the **final_code.ino** file and start using the scale.
