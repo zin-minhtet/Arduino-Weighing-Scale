@@ -1,1 +1,2 @@
 *.ino linguist-detectable=true
+*.cpp linguist-detectable=false
