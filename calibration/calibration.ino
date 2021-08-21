@@ -1,5 +1,4 @@
-/* Everyone can use this program freely.
- * To use the program correctly, check the readme.md file first.
+/* To use the program correctly, check the readme.md file first.
  * 
  * Before Calibrating, you need a known-weight object (may be your phone or something)
  * You can put a plate or something (2 or 3 is better) on the load cells to put things on it while wehghing (ok with any weight)

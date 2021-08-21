@@ -1,5 +1,4 @@
-/* Everyone can use this program freely.
- * To use the program correctly, check the readme.md file first.
+/* To use the program correctly, check the readme.md file first.
  * 
  * After testing in the Serial Monitor, I made the scale to output the weight value on LCD screen.
  * Put no weight on the scale.

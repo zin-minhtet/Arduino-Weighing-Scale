@@ -1,5 +1,4 @@
-/* Everyone can use this program freely.
- * To use the program correctly, check the readme.md file first.
+/* To use the program correctly, check the readme.md file first.
  * 
  * Do not put anything on the scale plate until you get a prompt. (Because the tare weight need to be calculate before using the scale)
  * Replace the calibration factor value with the one you've got from the calibration step.
